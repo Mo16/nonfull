@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf106589d26006bd5e684fb161cc0245c668b67ce",
+  "SCAN_LINK": "https://etherscan.io/token/0xf106589d26006bd5e684fb161cc0245c668b67ce",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Nation Of Nowhere",
+  "SYMBOL": "NON",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 99000000000000000,
+  "DISPLAY_COST": 0.099,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/NON",
+  "SHOW_BACKGROUND": true
+}
